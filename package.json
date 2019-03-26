@@ -4,12 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build" : "node server/server.js",
     "start" : "node server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines" : {
-    "node" : "10.15.3"
+    "node" : "6.2.2"
   },
   "author": "",
   "license": "ISC",
